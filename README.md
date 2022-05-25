@@ -10,7 +10,8 @@ These tools are based on your active Revit project, so these shortcuts should wo
 ###### How do I add the toolbar? 
 To add custom pyRevit Toolbars, go to pyRevit, click on the dropdown “pyRevit” in the bottom left of the ribbon.
 Select Settings > add folder > then paste the toolbar location. Select folder > Save Settings and Reload. 
-PyRevit will reload and the toolbar will be ready to use.
+PyRevit will reload and the toolbar will be ready to use. More info available <a href="https://bvn.zendesk.com/hc/en-us/articles/4787426471311">here</a>. 
+
 
 ###### BIM (pulldown menu)
 - Export Shared Parameters - Exports GUIDs of each parameter in a project. This is something that the everyday user is unlikely to use but useful for developers and BIM managers to identify shared parameters and communicate with Revit’s API. This is an existing script that was previously designed for the Revit Python Shell but adding it to pyRevit makes it more user-friendly and accessible. 
