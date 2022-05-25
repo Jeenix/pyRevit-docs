@@ -37,3 +37,21 @@ pyRevit has greater flexibility and is easier to update than BVN tools. Once loa
 
 ###### Hint 
 You can assign all add-ins (including the pyRevit tools) to your own custom keyboard shortcuts. (View > User Interface >  Keyboard shortcuts)
+
+
+###### Useful links to get started with pyRevit 
+And finally, I'd encourage you if you're inclined to build your own pyRevit scripts and tools to have a look at some of these great resources. Otherwise make friends with your Design technology peeps and maybe they can sort you out. :) 
+
+<a href="https://bvn.zendesk.com/hc/en-us/articles/4787426471311"> - Revit API docs</a>
+
+<a href="https://thebuildingcoder.typepad.com"> - The Building coder </a> - so many helpful tutorials 
+
+<a href="https://www.macro4bim.com/post/vscode-intellisense-for-revit"> - VSCode intelliSense for Revit</a>
+
+<a href="https://www.notion.so/Developer-Docs-2c88f3ecccde422d9504e20b6b9e04f8"> - pyRevit Developer docs </a> - of course! 
+
+
+
+
+
+
