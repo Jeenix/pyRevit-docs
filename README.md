@@ -50,6 +50,7 @@ And finally, I'd encourage you if you're inclined to build your own pyRevit scri
 
 <a href="https://www.notion.so/Developer-Docs-2c88f3ecccde422d9504e20b6b9e04f8"> - pyRevit Developer docs </a> - of course! 
 
+<a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR"> - Learn about git & github and how to use it </a>
 
 
 
